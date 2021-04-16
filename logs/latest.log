@@ -1,1 +1,13 @@
-[01:48:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2263ms or 45 ticks behind
+[21:41:17] [Server thread/INFO]: Stopping the server
+[21:41:17] [Server thread/INFO]: Stopping server
+[21:41:17] [Server thread/INFO]: Saving players
+[21:41:17] [Server thread/INFO]: Saving worlds
+[21:41:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:41:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:41:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:41:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:41:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:41:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:41:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:41:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:41:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
